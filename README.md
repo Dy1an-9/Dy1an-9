@@ -3,6 +3,7 @@ My name is Dylan and I'm a programmer interested in all things javascript python
 - 🌱 I’m currently learning javascript, python and linux
 - 👯 I’m looking to collaborate on open projects and interact with a lot of programmers
 - 💬 Ask me about what it's like learning to code from scratch
+- 📫 How to reach me: email:dylanodhiambo2002@gmail.com Instagram:sir._cartiii
 <!--
 **Dy1an-9/Dy1an-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
