@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Dylan 👋
 My name is Dylan and I'm a programmer interested in all things javascript python and so on
 - 🌱 I’m currently learning javascript, python and linux
 - 👯 I’m looking to collaborate on open projects and interact with a lot of programmers
@@ -6,10 +6,6 @@ My name is Dylan and I'm a programmer interested in all things javascript python
 - 📫 How to reach me: email:dylanodhiambo2002@gmail.com Instagram:@sir._cartiii
 
 -->
-# 💫 About Me:
-My name is Dylan and I'm a programmer interested in all things javascript python and so on
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sir._cartii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dylanodhiambo2002@gmail.com) 
 
